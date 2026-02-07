@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+requests
+beautifulsoup4
+transformers
+torch
+torchvision
